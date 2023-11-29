@@ -11,5 +11,5 @@ else
 fi
 
 
-rm -rf /home/ubuntu/hello-flask
-mkdir  /home/ubuntu/hello-flask
+rm -rf /home/ubuntu/project3
+mkdir  /home/ubuntu/project3
