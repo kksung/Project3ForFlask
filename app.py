@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/project3')
 def hello():
-    return 'success deploy code'
+    return 'Success Test'
 
 
 if __name__ == '__main__':
